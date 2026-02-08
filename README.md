@@ -107,6 +107,4 @@ Demonstrates how increasing bedroom count correlates with higher property prices
 - Add demographic and infrastructure scoring  
 - Predict future price trends using forecasting models :contentReference[oaicite:6]{index=6}
 
----
 
-## 📁 Repository Structure (Suggested)
