@@ -8,7 +8,7 @@ The goal is to transform real estate data into actionable visual intelligence th
 ---
 
 ## 🖼️ Dashboard Preview
-
+<img width="1540" height="614" alt="Real_Estate_Market_Analysis" src="https://github.com/samkhan0007/Real-Estate-Market-Analysis/blob/main/Real_Estate_Market_Analysis.png" />
 
 ## 🎯 Business Objectives
 - Analyze overall real estate market pricing trends  
