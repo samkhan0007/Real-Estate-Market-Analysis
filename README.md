@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project presents a comprehensive **Real Estate Market Analysis Dashboard** built using **Tableau**. It delivers insights into property pricing trends, construction growth, furnishing impact, property type distribution, loan eligibility, and bedroom-based price variations.  
 
-The goal is to transform real estate data into actionable visual intelligence that supports smarter investment, pricing, and development decisions. :contentReference[oaicite:0]{index=0}
+The goal is to transform real estate data into actionable visual intelligence that supports smarter investment, pricing, and development decisions.
 
 ---
 
